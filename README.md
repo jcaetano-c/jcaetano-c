@@ -30,17 +30,10 @@ I'm a web enthusiast, most focused on front-end but looking to become a full sta
     <img align="center" alt="python" height="40" width="40" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" style="max-width:100%"/>
 </div>
 
-## Techs I know
-
-<div>
-    <img align="center" alt="arduino" height="40" width="40" src="https://www.freeiconspng.com/uploads/arduino-icon-5.png" style="max-width:100%"/>    
-    <img align="center" alt="c" height="40" width="40" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" style="max-width:100%"/>
-</div>
-
 ---
 
-![jjajairo github stats](https://github-readme-stats.vercel.app/api?username=jjajairo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjajairo&layout=compact)
+![jjajairo github stats](https://github-readme-stats.vercel.app/api?username=jjajairo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjajairo&layout=compact&theme=tokyonight)
 <br/>
 <img src="https://komarev.com/ghpvc/?username=jjajairo&label=Visualiza%C3%A7%C3%B5es&color=red&style=flat" alt="It's me, Jairo!" />
 
