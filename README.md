@@ -36,6 +36,7 @@ I'm a web enthusiast, most focused on front-end but looking to become a full sta
     <img align="center" alt="arduino" height="40" width="40" src="https://www.freeiconspng.com/uploads/arduino-icon-5.png" style="max-width:100%"/>    
     <img align="center" alt="c" height="40" width="40" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" style="max-width:100%"/>
 </div>
+
 ---
 
 ![jjajairo github stats](https://github-readme-stats.vercel.app/api?username=jjajairo&show_icons=true&theme=radical)
@@ -49,5 +50,5 @@ I'm a web enthusiast, most focused on front-end but looking to become a full sta
   <img margin="20px" align="center" alt="jairo-linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a  href="mailto:jairojunior841@gmail.com" target="_blank">
-  <img margin="20px" align="center" alt="email" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  <img margin="20px" align="center" alt="email" height="30" width="30" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"/>
 </a>
