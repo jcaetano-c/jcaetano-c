@@ -46,9 +46,8 @@ I'm a web enthusiast, most focused on front-end but looking to become a full sta
 ### Connect with me:
 
 <a  href="https://www.linkedin.com/in/jairo-caetano-junior/" target="_blank">
-  <img margin="20px" align="center" alt="jairo-linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg"/>
+  <img margin="20px" align="center" alt="jairo-linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg"/>
 </a>
-
-<a align="center" href="mailto:jairojunior841@gmail.com?subject=Hello%Bernardo,%20From%20Github">
-  <img alt="Email-me!" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a  href="mailto:jairojunior841@gmail.com" target="_blank">
+  <img margin="20px" align="center" alt="email" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
