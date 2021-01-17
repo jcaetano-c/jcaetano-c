@@ -10,20 +10,31 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 ### Code
 
+
+<div>
+
 <img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 <img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 
+</div>
+
 ### Tools
 
+<div>
+  
 <img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=36&color=8d30d9" style="max-width:100%;"/>
 <img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width:100%;"/>  
 <img alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 <img alt="react" src="https://icongr.am/devicon/react-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 
+</div>
+
 ---
 
 ## Techs I intend to learn
+
+<div>
 
 <img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 
@@ -34,6 +45,8 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 <img alt="flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width:100%;"/>
 
 <img alt="python" src="https://icongr.am/devicon/python-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+
+</div>
 
 ---
 
