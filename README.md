@@ -8,28 +8,24 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 ## Techs I'm learning
 
-<div style="display: flex;">
-
-<div style="margin-right: 25px;">
-
 ### Code
-
-<img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
-<img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
-<img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
-
-</div>
 
 <div>
 
-### Tools
-
-<img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=36&color=8d30d9" style="max-width:100%;"/>
-<img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width:100%;"/>  
-<img alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
-<img alt="react" src="https://icongr.am/devicon/react-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+<img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor"/>
+<img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor"/>
+<img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor"/>
 
 </div>
+
+### Tools
+
+<div>
+
+<img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=36&color=8d30d9"/>
+<img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>  
+<img alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor"/>
+<img alt="react" src="https://icongr.am/devicon/react-original.svg?size=36&color=currentColor"/>
 
 </div>
 
@@ -39,15 +35,15 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 <div>
 
-<img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+<img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor"/>
 
-<img alt="electron" src="https://icongr.am/devicon/electron-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+<img alt="electron" src="https://icongr.am/devicon/electron-original.svg?size=36&color=currentColor"/>
 
-<img alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+<img alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=36&color=currentColor"/>
 
-<img alt="flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width:100%;"/>
+<img alt="flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
-<img alt="python" src="https://icongr.am/devicon/python-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+<img alt="python" src="https://icongr.am/devicon/python-original.svg?size=36&color=currentColor"/>
 
 </div>
 
@@ -58,14 +54,14 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 ### Connect with me:
 
 <!-- <a  href="https://www.linkedin.com/in/jairo-caetano-junior/" target="_blank">
-  <img alt="gmail" src="https://icongr.am/material/linkedin.svg?size=36&color=currentColor" style="max-width:100%;"/>
+  <img alt="gmail" src="https://icongr.am/material/linkedin.svg?size=36&color=currentColor"/>
 </a>
 <a  href="mailto:jairojunior841@gmail.com" target="_blank">
-  <img alt="gmail" src="https://icongr.am/material/gmail.svg?size=36&color=currentColor" style="max-width:100%;"/>
+  <img alt="gmail" src="https://icongr.am/material/gmail.svg?size=36&color=currentColor"/>
 </a> -->
 
 <!-- <a  href="https://twitter.com/jja_jairo" target="_blank">
-  <img alt="gmail" src="https://img.shields.io/twitter/follow/jja_jairo?style=social" style="max-width:100%;"/>
+  <img alt="gmail" src="https://img.shields.io/twitter/follow/jja_jairo?style=social"/>
 </a> -->
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -79,7 +75,7 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 </a>
 
 <a  href="https://github.com/jjajairo" target="_blank">
-  <img alt="github" src="https://img.shields.io/github/followers/jjajairo?label=follow&style=social" style="max-width:100%;"/>
+  <img alt="github" src="https://img.shields.io/github/followers/jjajairo?label=follow&style=social"/>
 </a>
 
 </div>
