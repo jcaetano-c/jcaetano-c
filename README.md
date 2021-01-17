@@ -5,7 +5,7 @@
 ## About me
 
 My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 years ago. <br/>
-Currently, I'm working on my final paper and some other smaller school projects. <br/>
+Currently, I'm working on my final paper and some other smaller personal projects. <br/>
 I'm a web enthusiast, most focused on front-end but looking to become a full stack developer. <br/>
 
 ## Techs I'm learning
