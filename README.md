@@ -8,10 +8,11 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 ## Techs I'm learning
 
+<div style="display: flex;">
+
+<div style="margin-right: 25px;">
+
 ### Code
-
-
-<div>
 
 <img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
@@ -19,14 +20,16 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 </div>
 
+<div>
+
 ### Tools
 
-<div>
-  
 <img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=36&color=8d30d9" style="max-width:100%;"/>
 <img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width:100%;"/>  
 <img alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
 <img alt="react" src="https://icongr.am/devicon/react-original.svg?size=36&color=currentColor" style="max-width:100%;"/>
+
+</div>
 
 </div>
 
@@ -67,7 +70,7 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 <div style="display: flex; flex-wrap: wrap;">
 
-<a  href="mailto:jairojunior841@gmail.com" target="_blank" style="margin-right: 5px; text-align: center;">
+<a  href="mailto:jairojunior841@gmail.com" target="_blank" style="margin-right: 5px;">
   <img alt="gmail" src="https://img.shields.io/badge/-jairojunior841@gmail-red?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
