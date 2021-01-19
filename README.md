@@ -37,9 +37,9 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 <img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor"/>
 
-<img alt="elixir" src="https://icongr.am/simple/elixir.svg?size=36&color=330b45"/>
+<img alt="elixir" width="36px" src="https://secure.meetupstatic.com/photos/event/c/f/9/5/600_449393141.jpeg"/>
 
-<img alt="electron" width="36px" src="https://secure.meetupstatic.com/photos/event/c/f/9/5/600_449393141.jpeg"/>
+<img alt="electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
 
 <img alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=36&color=currentColor"/>
 
