@@ -31,11 +31,13 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 ---
 
-## Techs I intend to learn
+## Techs I'm interested in learning
 
 <div>
 
 <img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor"/>
+
+<img alt="elixir" src="https://icongr.am/simple/elixir.svg?size=36&color=330b45"/>
 
 <img alt="electron" src="https://icongr.am/devicon/electron-original.svg?size=36&color=currentColor"/>
 
