@@ -10,10 +10,12 @@ My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 y
 
 ### Code
 
-<div>
+<div style="display: flex;">
 
 <img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor"/>
+
 <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor"/>
+
 <img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor"/>
 
 </div>
