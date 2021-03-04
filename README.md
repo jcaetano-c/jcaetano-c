@@ -16,7 +16,7 @@ Initially, I started with the front-end, but then I discovered that th
 
 ---
 
-#### I have experience with
+## I have experience with
 
 <div style="display: flex;">
 
@@ -30,7 +30,7 @@ Initially, I started with the front-end, but then I discovered that th
 
 </div>
 
-#### I am studying
+### I am studying
 
 <div style="display: flex;">
 
@@ -44,7 +44,7 @@ Initially, I started with the front-end, but then I discovered that th
 
 </div>
 
-#### I have interest
+## I have interest
 
 <div style="display: flex;">
 
