@@ -4,57 +4,49 @@
 
 ## About me
 
-My name is Jairo. I'm 20 years old and I'm in contact with programming about 3 years ago. <br/> Currently, I'm working on my final paper and some other smaller personal projects. <br/> I'm a web enthusiast, most focused on front-end but looking to become a full stack developer. <br/>
+Hi, my name is Jairo, and I'm 20 years old.
 
-## Techs I'm learning
+I have the first contact with programming about 3 years ago. And in 2020 I started to focus my studies on web development.
 
-### Code
+Initially, I started with the front-end, but then I discovered that the back-end can be cool too.
 
-<div style="display: flex;">
+**Passionate about code every day I'm more.**
+
+###### obs: developing systems for everyday objects look pretty cool... 🤔
+
+---
+
+#### I have experience with
+
+<img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor"/>
+
+<img alt="node" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor"/>
 
 <img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor"/>
 
 <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor"/>
 
-<img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor"/>
-
-</div>
-
-### Tools
-
-<div>
-
-<img alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=36&color=8d30d9"/>
+#### I am studying
 
 <img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor"/>
 
-<img alt="nodejs" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor"/>
-
 <img alt="react" src="https://icongr.am/devicon/react-original.svg?size=36&color=currentColor"/>
-
-</div>
-
----
-
-## Techs I'm interested in learning
-
-<div>
-
-<img alt="elixir" width="36px" src="https://secure.meetupstatic.com/photos/event/c/f/9/5/600_449393141.jpeg"/>
-
-<img alt="electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
 
 <img alt="docker" src="https://icongr.am/devicon/docker-original.svg?size=36&color=currentColor"/>
 
-<img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+<img alt="heroku" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=36&color=currentColor"/>
 
-<img alt="flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
+#### I have interest
+
+<img alt="elixir" width="36px" src="https://secure.meetupstatic.com/photos/event/c/f/9/5/600_449393141.jpeg"/>
 
 <img alt="python" src="https://icongr.am/devicon/python-original.svg?size=36&color=currentColor"/>
 
-</div>
+<img alt="flutter" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
----
+<img alt="electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
+
+<img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 
 ![jjajairo github stats](https://github-readme-stats.vercel.app/api?username=jjajairo&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjajairo&layout=compact&theme=tokyonight) <br/> <img src="https://komarev.com/ghpvc/?username=jjajairo&label=Visualiza%C3%A7%C3%B5es&color=gray&style=flat" alt="It's me, Jairo!" />
 
