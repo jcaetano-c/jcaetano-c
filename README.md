@@ -18,6 +18,8 @@ Initially, I started with the front-end, but then I discovered that th
 
 #### I have experience with
 
+<div style="display: flex;">
+
 <img alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor"/>
 
 <img alt="node" src="https://icongr.am/devicon/nodejs-original.svg?size=36&color=currentColor"/>
@@ -26,7 +28,11 @@ Initially, I started with the front-end, but then I discovered that th
 
 <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor"/>
 
+</div>
+
 #### I am studying
+
+<div style="display: flex;">
 
 <img alt="mongodb" src="https://icongr.am/devicon/mongodb-original.svg?size=36&color=currentColor"/>
 
@@ -36,7 +42,11 @@ Initially, I started with the front-end, but then I discovered that th
 
 <img alt="heroku" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=36&color=currentColor"/>
 
+</div>
+
 #### I have interest
+
+<div style="display: flex;">
 
 <img alt="elixir" width="36px" src="https://secure.meetupstatic.com/photos/event/c/f/9/5/600_449393141.jpeg"/>
 
@@ -47,6 +57,10 @@ Initially, I started with the front-end, but then I discovered that th
 <img alt="electron" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
 
 <img alt="firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+
+</div>
+
+---
 
 ![jjajairo github stats](https://github-readme-stats.vercel.app/api?username=jjajairo&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjajairo&layout=compact&theme=tokyonight) <br/> <img src="https://komarev.com/ghpvc/?username=jjajairo&label=Visualiza%C3%A7%C3%B5es&color=gray&style=flat" alt="It's me, Jairo!" />
 
