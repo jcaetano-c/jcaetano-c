@@ -4,13 +4,13 @@ Hello world, I am Jairo.
 </h1>
 
 ## I am...
--  👨‍💻 Cadet student at **[42 São Paulo](https://www.42sp.org.br)**, a global software engineer school;
+-  👨‍💻 Sudent at **IFC BLUMENAU**, a federal software university;
 - 🎓 Computer technician graduated from **[IFSC Gaspar](https://www.ifsc.edu.br/web/campus-gaspar)**;
 
 ## About me
 - 🧠 I like to learn and share knowledge;
 - 🤔 I'm curious, I like to understand how technologies work behind them;
-	- ⚙️ I use C Language at 42SP to study the low level world.
+	- ⚙️ I use C Language and like to study the low level world.
 - 💡 Currently Studying C#  by myself for back-end development.
 
 ---
